@@ -1,0 +1,10 @@
+.Section{
+    display: flex;
+    justify-content: center;
+}
+
+.Section__headline{
+    object-fit: contain;
+    font-family: AppleGothic, serif;
+    font-size: 40px;
+}
