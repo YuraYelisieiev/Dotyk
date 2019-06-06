@@ -1,0 +1,38 @@
+.Section {
+  max-height: 450px;
+  max-width: 500px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  margin: 50px auto auto;
+}
+
+.Section__headline {
+  text-align: center;
+  object-fit: contain;
+  font-family: AppleGothic, serif;
+  font-size: 40px;
+  margin-top: 15px;
+}
+
+.Section__image {
+  max-height: 300px;
+}
+
+.Section__subtitle {
+  object-fit: contain;
+  font-family: AppleGothic, serif;
+  font-size: 13px;
+  margin: 15px auto;
+}
+
+.Section__text {
+  text-align: center;
+  object-fit: contain;
+  font-family: ComicSansMS, serif;
+  font-size: 13px;
+}
+
+/*# sourceMappingURL=Section.scss.map */
+
+/*# sourceMappingURL=Section.css.map */

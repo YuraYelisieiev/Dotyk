@@ -1,0 +1,15 @@
+{
+  "name": "css",
+  "version": "1.0.0",
+  "description": "asd",
+  "main": "index.js",
+  "repository": "https://github.com/YuraYelisieiev/Dotyk",
+  "author": "Yurii Yelisieiev",
+  "license": "MIT",
+  "private": null,
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.33.0",
+    "webpack-dev-server": "^3.7.0"
+  }
+}

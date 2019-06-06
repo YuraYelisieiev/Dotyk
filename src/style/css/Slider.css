@@ -1,0 +1,31 @@
+.Slider {
+  display: flex;
+  justify-content: center;
+}
+
+.Slider__product {
+  display: flex;
+  flex-direction: column;
+  margin: 10px auto 10px 15px;
+}
+
+.Slider__slider-image {
+  width: 130px;
+  height: 130px;
+}
+
+.Product__text {
+  object-fit: contain;
+  font-family: ComicSansMS, serif;
+  font-size: 13px;
+}
+
+.Product__price {
+  object-fit: contain;
+  font-family: ComicSansMS, serif;
+  font-size: 10px;
+}
+
+/*# sourceMappingURL=Slider.scss.map */
+
+/*# sourceMappingURL=Slider.css.map */
