@@ -1,0 +1,23 @@
+.About-Section{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.About-Section_img{
+    display: flex;
+    align-content: stretch;
+    object-fit: contain;
+    width: 360px;
+}
+
+.About-Section_10perc{
+    padding-left: 67px;
+    padding-right: 67px;
+}
+
+.About-Section_Text-Section{
+    display: flex;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 13px;
+}
