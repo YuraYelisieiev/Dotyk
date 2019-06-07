@@ -5,32 +5,32 @@
   justify-content: space-evenly;
   flex-direction: column;
   margin: 50px auto auto;
-}
 
-.Section__headline {
-  text-align: center;
-  object-fit: contain;
-  font-family: AppleGothic, serif;
-  font-size: 40px;
-  margin-top: 15px;
-}
+  &__headline {
+    text-align: center;
+    object-fit: contain;
+    font-family: AppleGothic, serif;
+    font-size: 40px;
+    margin-top: 15px;
+  }
 
-.Section__image {
-  max-height: 300px;
-}
+  &__image {
+    max-height: 300px;
+  }
 
-.Section__subtitle {
-  object-fit: contain;
-  font-family: AppleGothic, serif;
-  font-size: 13px;
-  margin: 15px auto;
-}
+  &__subtitle {
+    object-fit: contain;
+    font-family: AppleGothic, serif;
+    font-size: 13px;
+    margin: 15px auto;
+  }
 
-.Section__text {
-  text-align: center;
-  object-fit: contain;
-  font-family: ComicSansMS, serif;
-  font-size: 13px;
+  &__text {
+    text-align: center;
+    object-fit: contain;
+    font-family: ComicSansMS, serif;
+    font-size: 13px;
+  }
 }
 
 /*# sourceMappingURL=Section.scss.map */

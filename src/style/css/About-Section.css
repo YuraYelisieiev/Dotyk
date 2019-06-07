@@ -26,6 +26,7 @@
     margin-bottom: 2em;
 }
 .About-Section_text{
+    max-width: 328px;
     opacity: 1;
     margin: 40px;
 }
@@ -55,4 +56,9 @@
 }
 .About-Section_organic-image{
     width:80%;
+}
+.About-Section_text-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
