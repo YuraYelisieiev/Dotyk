@@ -1,11 +1,16 @@
 .Product_wrapper {
   overflow: hidden;
   background: white;
-
+  &_hidden{
+    display: none;
+  }
+  &_available{
+    display: block;
+  }
   &__list {
     display: flex;
     justify-content: space-between;
-    transition: transform 0.3s;
+    transition: transform .5s;
     transform: translateX(0px);
   }
 

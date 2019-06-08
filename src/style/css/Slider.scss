@@ -1,10 +1,8 @@
 .Slider {
   display: flex;
-  justify-content: space-between;
-  align-content: center;
-
   &__product {
     display: flex;
+    justify-content: flex-start;
     flex-direction: column;
     margin-left: 5px;
     margin-right: 5px;

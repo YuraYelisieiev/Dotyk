@@ -2,10 +2,16 @@
   overflow: hidden;
   background: white;
 }
+.Product_wrapper_hidden {
+  display: none;
+}
+.Product_wrapper_available {
+  display: block;
+}
 .Product_wrapper__list {
   display: flex;
   justify-content: space-between;
-  transition: transform 0.3s;
+  transition: transform 0.5s;
   transform: translateX(0px);
 }
 .Product_wrapper__text {
